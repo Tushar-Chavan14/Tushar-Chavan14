@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/header.gif" height="400" width="800">
+<img src="/header.gif" height="450" width="800">
 </div>
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
