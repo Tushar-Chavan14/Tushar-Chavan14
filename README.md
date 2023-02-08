@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-chavan14&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-chavan14" /> </p>
 
+- 🌱 I Work on **Javascript Tools like React & Express**
+
 - 👨‍💻 All of my projects are available at [findtushar.me](findtushar.me)
 
 - 💬 Ask me about **React | Javascript | Express | Node js**
@@ -24,4 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-chavan14&show_icons=true&locale=en&layout=compact" alt="tushar-chavan14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-chavan14&show_icons=true&locale=en" alt="tushar-chavan14" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-chavan14&" alt="tushar-chavan14" /></p>
 
