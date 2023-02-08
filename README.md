@@ -1,3 +1,6 @@
+<div align="center">
+<img src="/header.gif" height="400" width="800">
+</div>
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
 
@@ -5,13 +8,13 @@
 
 - 🌱 I Work on **Javascript Tools like React & Express**
 
-- 👨‍💻 All of my projects are available at [findtushar.me](findtushar.me)
+- 👨‍💻 All of my projects are available at [findtushar.me](https://findtushar.me)
 
 - 💬 Ask me about **React | Javascript | Express | Node js**
 
 - 📫 How to reach me **tusharchavan166@gmail.com**
 
-- 📄 Know about my experiences [findtushar.me](findtushar.me)
+- 📄 Know about my experiences [findtushar.me](https://findtushar.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
