@@ -18,6 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Custom Hooks in React: An Introduction to the &#39;useFetchWithAuth&#39; Hook](https://medium.com/@tusharchavan166/exploring-custom-hooks-in-react-an-introduction-to-the-usefetchwithauth-hook-f5b0fb0baf40?source=rss-53b410a24253------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
