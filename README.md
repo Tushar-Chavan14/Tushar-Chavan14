@@ -37,9 +37,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-chavan14&" alt="tushar-chavan14" /></p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-chavan14&show_icons=true&locale=en" alt="tushar-chavan14" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-chavan14&" alt="tushar-chavan14" /></p>
-
