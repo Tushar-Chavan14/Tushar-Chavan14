@@ -18,6 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Reusable Modal Component in React :  Tips and Best Practices](https://medium.com/@tusharchavan166/creating-a-reusable-modal-component-in-react-tips-and-best-practices-249784902689?source=rss-53b410a24253------2)
 - [Exploring Custom Hooks in React: An Introduction to the &#39;useFetchWithAuth&#39; Hook](https://medium.com/@tusharchavan166/exploring-custom-hooks-in-react-an-introduction-to-the-usefetchwithauth-hook-f5b0fb0baf40?source=rss-53b410a24253------2)
 <!-- BLOG-POST-LIST:END -->
 
