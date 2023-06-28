@@ -7,7 +7,7 @@
 # 💫 About Me:
 🔭️ I Work on Javascript Tools like React & Express<br><br>🧑‍💻️ All of my projects are available at findtushar.me<br><br>💬️ Ask me about React | Javascript | Express | Node js<br><br>📫 How to reach me tusharchavan166@gmail.com<br><br>📄 Know about my experiences findtushar.me
 
-# 📜️ Blogs posts
+# 📜️ Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
