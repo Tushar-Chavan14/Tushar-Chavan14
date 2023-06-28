@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full stack web developer from India</h3>
 
 # 💫 About Me:
-🔭️ I Work on Javascript Tools like React & Express<br><br>🧑‍💻️ All of my projects are available at Portfolio(findtushar.me)<br><br>💬️ Ask me about React | Javascript | Express | Node js<br><br>📫 How to reach me tusharchavan166@gmail.com<br><br>📄 Know about my experiences findtushar.me
+🔭️ I Work on Javascript Tools like React & Express<br><br>🧑‍💻️ All of my projects are available at [https://findtushar.me](https://findtushar.me)<br><br>💬️ Ask me about React | Javascript | Express | Node js<br><br>📫 How to reach me tusharchavan166@gmail.com<br><br>📄 Know about my experiences [https://findtushar.me](https://findtushar.me)
 
 # 📜️ Blog posts
 <!-- BLOG-POST-LIST:START -->
