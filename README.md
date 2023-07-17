@@ -9,11 +9,11 @@
 
 # 📜️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [State Management Simplicity: Harnessing Zustand for Effortless State in React, a Redux Alternative](https://medium.com/@tusharchavan166/state-management-simplicity-harnessing-zustand-for-effortless-state-in-react-a-redux-alternative-10709a71205d?source=rss-53b410a24253------2)
 - [Exploring Modern JavaScript: New Array Methods and Techniques for Efficient Development](https://medium.com/@tusharchavan166/exploring-modern-javascript-new-array-methods-and-techniques-for-efficient-development-c1d20b340f8?source=rss-53b410a24253------2)
 - [Secure your express.js app with rate limiting middleware](https://medium.com/@tusharchavan166/secure-your-express-js-app-with-rate-limiting-middleware-c2f0a0ed2bdf?source=rss-53b410a24253------2)
 - [Middleware Magic: Getting Image URLs with Multer and Cloudinary in Node.js](https://medium.com/@tusharchavan166/middleware-magic-getting-image-urls-with-multer-and-cloudinary-in-node-js-5235f512171?source=rss-53b410a24253------2)
 - [Creating a Reusable Modal Component in React :  Tips and Best Practices](https://medium.com/@tusharchavan166/creating-a-reusable-modal-component-in-react-tips-and-best-practices-249784902689?source=rss-53b410a24253------2)
-- [Exploring Custom Hooks in React: An Introduction to the &#39;useFetchWithAuth&#39; Hook](https://medium.com/@tusharchavan166/exploring-custom-hooks-in-react-an-introduction-to-the-usefetchwithauth-hook-f5b0fb0baf40?source=rss-53b410a24253------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
