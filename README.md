@@ -9,11 +9,11 @@
 
 # 📜️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Component Reusability: Class Variance Authority &lpar;CVA&rpar;](https://medium.com/@tushar_chavan/react-component-reusability-class-variance-authority-cva-5e7e98d61194?source=rss-53b410a24253------2)
 - [Bun.js 1.0 : A Node And Deno Alternate](https://medium.com/@tushar_chavan/bun-js-1-0-a-node-and-deno-alternate-ee07e67d661f?source=rss-53b410a24253------2)
 - [Building a GraphQL Backend with Apollo Server and Node.js: A Practical Guide](https://medium.com/@tushar_chavan/building-a-graphql-backend-with-apollo-server-and-node-js-a-practical-guide-2b32c96f87c0?source=rss-53b410a24253------2)
 - [State Management Simplified: Harnessing Zustand for Effortless State in React, a Redux Alternative](https://medium.com/@tushar_chavan/state-management-simplicity-harnessing-zustand-for-effortless-state-in-react-a-redux-alternative-10709a71205d?source=rss-53b410a24253------2)
 - [Exploring Modern JavaScript: New Array Methods and Techniques for Efficient Development](https://medium.com/@tushar_chavan/exploring-modern-javascript-new-array-methods-and-techniques-for-efficient-development-c1d20b340f8?source=rss-53b410a24253------2)
-- [Secure your express.js app with rate limiting middleware](https://medium.com/@tushar_chavan/secure-your-express-js-app-with-rate-limiting-middleware-c2f0a0ed2bdf?source=rss-53b410a24253------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
