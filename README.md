@@ -9,11 +9,11 @@
 
 # 📜️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go lang Express: A Two-Week Learning Journey from Basics to Brilliance &lpar;w1d4&rpar;](https://medium.com/@tushar_chavan/go-lang-express-a-two-week-learning-journey-from-basics-to-brilliance-w1d4-11f720bdc56f?source=rss-53b410a24253------2)
 - [Go Express: A Two-Week Learning Journey from Basics to Brilliance &lpar;w1d3&rpar;](https://medium.com/@tushar_chavan/go-express-a-two-week-learning-journey-from-basics-to-brilliance-w1d3-f7547c8458f5?source=rss-53b410a24253------2)
 - [Go Express: A Two-Week Learning Journey from Basics to Brilliance](https://medium.com/@tushar_chavan/go-express-a-two-week-learning-journey-from-basics-to-brilliance-273457ddbf22?source=rss-53b410a24253------2)
 - [Go&lpar;lang&rpar; Express: A Two-Week Learning Journey from Basics to Brilliance](https://medium.com/@tushar_chavan/go-lang-express-a-two-week-learning-journey-from-basics-to-brilliance-0b5796831f56?source=rss-53b410a24253------2)
 - [Navigating Apache Kafka: A Beginner’s Guide to Seamless Data Flow And Intro to kafka.js](https://blog.stackademic.com/navigating-apache-kafka-a-beginners-guide-to-seamless-data-flow-and-intro-to-kafka-js-4c89083bf748?source=rss-53b410a24253------2)
-- [React Component Reusability: Class Variance Authority &lpar;CVA&rpar;](https://medium.com/@tushar_chavan/react-component-reusability-class-variance-authority-cva-5e7e98d61194?source=rss-53b410a24253------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
