@@ -9,11 +9,11 @@
 
 # 📜️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go lang Express: Methods , Interface &amp; Error handling&lpar;w1d7&rpar;](https://medium.com/@tushar_chavan/go-lang-express-methods-interface-error-handling-w1d7-564878bd7c19?source=rss-53b410a24253------2)
 - [Go lang Express: Structs, Maps, and More&lpar;w1d6&rpar;](https://medium.com/@tushar_chavan/go-lang-express-structs-maps-and-more-w1d6-85f2113f1c84?source=rss-53b410a24253------2)
 - [Go lang Express: A Two-Week Learning Journey from Basics to Brilliance &lpar;w1d5&rpar;](https://medium.com/@tushar_chavan/go-lang-express-a-two-week-learning-journey-from-basics-to-brilliance-w1d5-59b9a1dbc0e3?source=rss-53b410a24253------2)
 - [Go lang Express: A Two-Week Learning Journey from Basics to Brilliance &lpar;w1d4&rpar;](https://medium.com/@tushar_chavan/go-lang-express-a-two-week-learning-journey-from-basics-to-brilliance-w1d4-11f720bdc56f?source=rss-53b410a24253------2)
 - [Go Express: A Two-Week Learning Journey from Basics to Brilliance &lpar;w1d3&rpar;](https://medium.com/@tushar_chavan/go-express-a-two-week-learning-journey-from-basics-to-brilliance-w1d3-f7547c8458f5?source=rss-53b410a24253------2)
-- [Go Express: A Two-Week Learning Journey from Basics to Brilliance](https://medium.com/@tushar_chavan/go-express-a-two-week-learning-journey-from-basics-to-brilliance-273457ddbf22?source=rss-53b410a24253------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
